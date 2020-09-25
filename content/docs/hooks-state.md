@@ -28,7 +28,7 @@ function Example() {
 }
 ```
 
-We'll start learning about Hooks by comparing this code to an equivalent class example.
+We'll start learning about Hooks by comparing this code to an equivalent class example.ز
 
 ## Equivalent Class Example {#equivalent-class-example}
 
